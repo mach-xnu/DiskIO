@@ -19,6 +19,11 @@
 
 DiskIO is a macOS application designed to help you measure, analyze, and visualize disk I/O performance. Whether you're a system administrator, a tech enthusiast, or simply curious about your Mac's (or even an external drive!) storage capabilities, DiskIO provides detailed insights through a variety of disk speed tests and real-time visualizations.
 
+## Demo
+https://github.com/user-attachments/assets/0937121f-c01f-4e5a-b6c7-b726625d7ff9
+
+
+
 ## Features
 
 - 🚀 **Multiple Test Formats**: SEQ1M QD8, SEQ1M QD1, RND4K QD64, RND4K QD1
